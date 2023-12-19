@@ -1,0 +1,2 @@
+// Count and  Display number of requests
+db.school.count()
